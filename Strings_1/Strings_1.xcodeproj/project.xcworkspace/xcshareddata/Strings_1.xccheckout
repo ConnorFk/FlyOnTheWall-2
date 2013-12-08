@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D40C56FA-ADCF-4F2C-8925-EDD927FB35D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Strings_1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A4927DD-0BBD-41CC-B711-50691C0BC492</key>
+		<string>https://github.com/ConnorFk/FlyOtheWall-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Strings_1/Strings_1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A4927DD-0BBD-41CC-B711-50691C0BC492</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ConnorFk/FlyOtheWall-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A4927DD-0BBD-41CC-B711-50691C0BC492</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A4927DD-0BBD-41CC-B711-50691C0BC492</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlyOtheWall 2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
