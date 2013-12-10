@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D40C56FA-ADCF-4F2C-8925-EDD927FB35D0</string>
+	<string>962C9CC5-D8E8-4A12-AB21-2724131076ED</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Strings_1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7A4927DD-0BBD-41CC-B711-50691C0BC492</key>
-		<string>https://github.com/ConnorFk/FlyOtheWall-2.git</string>
+		<key>04D39D3A-2B62-4DBA-97C6-09B44CFA1547</key>
+		<string>https://github.com/ConnorFk/FlyOnTheWall-2.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Strings_1/Strings_1.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7A4927DD-0BBD-41CC-B711-50691C0BC492</key>
+		<key>04D39D3A-2B62-4DBA-97C6-09B44CFA1547</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ConnorFk/FlyOtheWall-2.git</string>
+	<string>https://github.com/ConnorFk/FlyOnTheWall-2.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7A4927DD-0BBD-41CC-B711-50691C0BC492</string>
+	<string>04D39D3A-2B62-4DBA-97C6-09B44CFA1547</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7A4927DD-0BBD-41CC-B711-50691C0BC492</string>
+			<string>04D39D3A-2B62-4DBA-97C6-09B44CFA1547</string>
 			<key>IDESourceControlWCCName</key>
-			<string>FlyOtheWall 2</string>
+			<string>FlyOnTheWall 2</string>
 		</dict>
 	</array>
 </dict>

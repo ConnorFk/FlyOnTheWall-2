@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0DD36B49-0A91-48C6-8D1E-286C60193425</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StandingWave_Particle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E58E51F5-61FD-4D3D-94D7-E1637AE85816</key>
+		<string>https://github.com/ConnorFk/FlyOnTheWall-2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StandingWave_Particle/StandingWave_Particle.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E58E51F5-61FD-4D3D-94D7-E1637AE85816</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ConnorFk/FlyOnTheWall-2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E58E51F5-61FD-4D3D-94D7-E1637AE85816</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E58E51F5-61FD-4D3D-94D7-E1637AE85816</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlyOnTheWall 2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
