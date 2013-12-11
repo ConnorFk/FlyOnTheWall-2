@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>215DA2CB-353D-4BE2-8969-25F2DBB34736</string>
+	<key>IDESourceControlProjectName</key>
+	<string>openNiSample007</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>64D9A5C6-92D4-408E-A80F-57A181684153</key>
+		<string>https://github.com/JaneTsang/myApps.git</string>
+		<key>C8C2BB67-CB50-41EA-A26C-5900BAFF288C</key>
+		<string>https://github.com/JaneTsang/playsoundbykinect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>playsoundbykinect/openNiSample007.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>64D9A5C6-92D4-408E-A80F-57A181684153</key>
+		<string>../../..</string>
+		<key>C8C2BB67-CB50-41EA-A26C-5900BAFF288C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JaneTsang/playsoundbykinect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>64D9A5C6-92D4-408E-A80F-57A181684153</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>64D9A5C6-92D4-408E-A80F-57A181684153</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myApps</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C8C2BB67-CB50-41EA-A26C-5900BAFF288C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>playsoundbykinect</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -39,7 +39,6 @@ void testApp::setup(){
        soundPlay[i] = false;
        j[i] = 1.f;
        sound[i].play();  //when you run the 6sound will turn on together
-
     }
     
     for (unsigned int i = 0; i < 100; i++){
