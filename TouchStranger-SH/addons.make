@@ -1,0 +1,3 @@
+ofxLibwebsockets
+ofxOpenNI2
+ofxSpacebrew

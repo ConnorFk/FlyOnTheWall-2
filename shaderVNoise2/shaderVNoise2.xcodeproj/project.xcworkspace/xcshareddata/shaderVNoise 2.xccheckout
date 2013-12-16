@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B58E60B8-CEC3-4418-A6E8-703AE49EC84D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>shaderVNoise 2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>42F5DC42-CAB4-4D39-907C-C46D5C811A21</key>
+		<string>https://github.com/emmanuelflores/shanghai-kebab.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cpp/shaderVNoise 2/shaderVNoise 2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>42F5DC42-CAB4-4D39-907C-C46D5C811A21</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/emmanuelflores/shanghai-kebab.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>42F5DC42-CAB4-4D39-907C-C46D5C811A21</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>42F5DC42-CAB4-4D39-907C-C46D5C811A21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>shanghai-kebab</string>
+		</dict>
+	</array>
+</dict>
+</plist>

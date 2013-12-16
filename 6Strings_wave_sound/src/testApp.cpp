@@ -32,7 +32,7 @@ void testApp::setup(){
     //----------------------------------------------
     ofSetVerticalSync(true);
     ofSetFrameRate(60);
-    ofBackground(100);
+    ofBackground(0);
     ofEnableBlendMode(OF_BLENDMODE_ADD);
     for(int i = 0; i < 6; i++){
        s[i].setup(ofGetWidth()/4, ofGetWidth()*3/4, ofGetHeight()/7*(i+1));
@@ -47,12 +47,10 @@ void testApp::setup(){
 
     
     for(pIter iter=particles.begin();iter !=particles.end();++iter){
-        
         float cirVal = ofRandom(TWO_PI);
         float vx = cos(cirVal) * ofRandom(0,4);
         float vy = sin(cirVal) * ofRandom(0,4);
         (*iter)->setInitialCondition(300, 300, vx, vy);
-        
     }
 }
 
